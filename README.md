@@ -1,6 +1,6 @@
 # Bike Share Dashboard
 ## Project Overview
-The Bike Share Dashboard project is designed to provide key performance insights to support strategic decision-making for the Toman Bike Share company. This dashboard will offer an in-depth analysis of various metrics, including revenue trends, rider demographics, and profit analysis, enabling the company to optimize its pricing strategy, manage operations more efficiently, and better serve its customers.
+The Bike Share Dashboard project is designed to provide key performance insights to support strategic decision-making for the Bike Share company. This dashboard will offer an in-depth analysis of various metrics, including revenue trends, rider demographics, and profit analysis, enabling the company to optimize its pricing strategy, manage operations more efficiently, and better serve its customers.
 
 ## Requirements
 The following key metrics and features will be included in the dashboard:
@@ -18,7 +18,7 @@ Understand the demographics of riders (age, gender, location, etc.).
 The dashboard will be designed using the company's brand colors for consistency.
 It will feature a user-friendly, easy-to-navigate layout, ensuring that decision-makers can access important insights quickly.
 ## Data Source
-Access to the Toman Bike Share databases will be provided.
+Access to the Bike Share databases will be provided.
 In the absence of an existing database, a new one will be created from scratch to house the necessary data for the analysis.
 ## Development Timeline
 Preliminary Version: A preliminary version of the dashboard will be delivered as soon as possible (ASAP). An estimated timeline for the full version will be determined based on data availability and the scope of additional requirements.
